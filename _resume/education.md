@@ -14,7 +14,7 @@ weight: 5
 
 -   Aug 2006 - Dec 2009
 -   2nd major: Mathematics
--   GPA: 3.67/4.00
+-   GPA: 3.59/4.00
 
 ------
 
