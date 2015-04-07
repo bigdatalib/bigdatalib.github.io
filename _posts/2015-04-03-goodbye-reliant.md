@@ -11,6 +11,7 @@ thumbnail: https://s3-us-west-1.amazonaws.com/chrisrzhou/datanaut/posts/2015-04-
 Here comes a big blog post after a period of absence on the site...
 
 ## A New Age
+
 Today, April 3rd 2015 is my last day at **Reliant Energy** and I will be moving onto my next professional career as a **Data
 Engineer at Facebook**!
 
@@ -27,7 +28,9 @@ every point in your life.
 > Focus on doing the things you love doing
 
 
+
 ## Be Grateful
+
 As much as I ended up feeling the remorseful slow drain of Reliant's snail-paced work, I am very very grateful for spending
 my time at Reliant.  Had I been stuck with a busier schedule, or had bosses who were more demanding on specific work tasks
 instead of encouraging creativity exploration of solutions, I would probably never had the chance to pick up the skills that
@@ -35,6 +38,8 @@ I've learned over the past 2-3 years.
 
 This is the letter that I wrote to my company and coworkers as I head out of my 5-year stay with Reliant Energy.  I am very
 grateful for the people I worked with, and the time I spent there.
+
+
 
 ## Farewell Letter
 
@@ -77,11 +82,13 @@ Be fun and stay cool!
 -Chris Zhou
 
 My contact information is provided below (my online handle is chrisrzhou on multiple platforms)
-Linkedin:  <https://www.linkedin.com/in/chrisrzhou>
-Github: <https://github.com/chrisrzhou>
-Website: <http://chrisrzhou.datanaut.io/>
-Facebook: <https://www.facebook.com/chrisrzhou> (I don’t use Facebook much J)
-Twitter: <https://twitter.com/chrisrzhou>
+
+-   Linkedin:  <https://www.linkedin.com/in/chrisrzhou>
+-   Github: <https://github.com/chrisrzhou>
+-   Website: <http://chrisrzhou.datanaut.io/>
+-   Facebook: <https://www.facebook.com/chrisrzhou> (I don’t use Facebook much J)
+-   Twitter: <https://twitter.com/chrisrzhou>
+
 
 
 **ADVICE SECTION**
