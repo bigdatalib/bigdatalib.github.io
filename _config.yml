@@ -1,9 +1,9 @@
 # Site settings
 title: bigdatalib.io
-email: christopher.r.zhou@gmail.com
-description: Exploring, discovering and "charting" the Dataverse
+email: nima.safaian@gmail.com
+description: Data Science Journey into Energy, Trading and Risk Management
 url: ""
-username: chrisrzhou
+username: bigdatalib
 include: ["_pages"]
 
 category: [visualizations, tutorials, other, site, tags, archive]
@@ -18,7 +18,7 @@ collections:
     output: false
 
 # Build settings
-timezone: America/Houston
+timezone: America/Denver
 markdown: redcarpet
 redcarpet:
     extensions: [with_toc_data]  # to add id to headers
