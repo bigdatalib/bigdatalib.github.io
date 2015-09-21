@@ -5,7 +5,7 @@ weight: 2
 
 ## About Me
 
-### Dataverse In a Nutshell
+### BigDataLib
 >   Incoming transmission: ...
 
 Greetings!
@@ -47,7 +47,7 @@ practicing ink-drawings.
 I live with my wonderful fiance, whom is also a data master of sorts in her quest in researching [osteosarcoma][] 
 cancer.  We share our residence with our two awesome cats, `Metal` and `Sneakers`.
 
-![image-cats][]
+![image-garp][]
 
 >   Signal fading...   static noises ...  Meow :3
 
@@ -59,4 +59,4 @@ cancer.  We share our residence with our two awesome cats, `Metal` and `Sneakers
 
 
 <!-- image links-->
-[image-cats]: https://s3-us-west-1.amazonaws.com/chrisrzhou/datanaut/site/images/cats.jpg
+[image-garp]: http://www.garp.org/img/garp_logo.png
