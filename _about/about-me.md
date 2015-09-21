@@ -7,8 +7,6 @@ weight: 2
 
 ### Brief Intro
 
-> TTT
-------
 
 
 
