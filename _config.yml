@@ -17,7 +17,7 @@ collections:
   resume:
     output: false
   training:
-    output:true
+    output: true
 
 # Build settings
 timezone: America/Denver
