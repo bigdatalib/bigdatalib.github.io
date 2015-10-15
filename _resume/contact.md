@@ -7,7 +7,7 @@ weight: 1
 <dl class="dl-horizontal">
   <dt>web</dt>
   <dd>
-    <a href="http://bigdatalib.github.io/" target="_blank">http://bigdatalib.github.io/</a>
+    <a href="http://bigdatalib.github.io/" target="_blank">http://bigdatalib.github.io</a>
   </dd>
   <dt>github</dt>
   <dd>
