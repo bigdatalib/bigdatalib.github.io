@@ -8,8 +8,8 @@ weight: 2
 
 ------
 
-## Business Intelligence Analyst
-### [Reliant Energy][] (*2010 - Present*)
+## Senior Risk Manager 
+### [Scotiabank][] (*2012 - Present*)
 
 -   **Co-led** high impact **organizational change project** aimed to recover over *$3,000,000* annually through 
     process improvements.
