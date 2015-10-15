@@ -29,23 +29,17 @@ weight: 2
 
 ------
 
-## Lead UI + Visualization + Frontend Developer
-### [GRADE][]  (*2014 - Present*)
-
-*GRADE is a startup company providing data-driven software solutions for global education foreign equivalencies in 
-the US.  The application is still being developed but please email for a preview if you are interested.*
-    
--   **Co-developed** business directions and decisions within a small agile team.
-
--   Designed and built the frontend application using AngularJS, with strong focus on **MVC abstractions**.
-    
--   GRADE is built on a **REST API** with a RoR backend.
-
--   Designed the UI, styles and unique interactive web visualizations on education data (in D3.js).
-
-
+## Lead Risk Specialist
+### [BP][]  (*2009 - 2012*)
+-   **Risk Manager** 
+    - Calgary lead market risk specialist for NAGP BP. Major North American Energy trading group. Portfolio included financial       and physical Natural Gas, Natural Gas Basis, and NGL both as linear and options instruments
+    - Monitored and reported risk of the Natural Gas trading portfolio. Performed VaR analysis, scenario analysis, stress           testing, and VaR model back testing
+    - Performed analysis to value and risk manage BP assets using real option analysis. Developed a framework to value              illiquid assets such as gas storage and NGL extraction plant. 
+-  **Quantitative Risk**
+    - Managed a major global software development project across BP’s Quant and Risk groups, which included: BP’s Calgary,          Houston, and London Offices. Outcome of the project resulted in significant cost saving for BP and allowed for improved       measurement of risk for various assets and contracts outside the liquidity window.  
+    - Reviewed and provided risk/reward input to major business agreements and long-term deals. 
 <!-- links -->
 [Scotiabank]: https://www.scotiabank.com/
-[ERCOT]: http://www.ercot.com/
-[R Shiny]: http://shiny.rstudio.com/gallery/
+[BP]: http://www.bp.com/
+
 [GRADE]: /
