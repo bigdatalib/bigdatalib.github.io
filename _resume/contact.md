@@ -7,14 +7,14 @@ weight: 1
 <dl class="dl-horizontal">
   <dt>web</dt>
   <dd>
-    <a href="http://chrisrzhou.datanaut.io/" target="_blank">http://chrisrzhou.datanaut.io/</a>
+    <a href="http://bigdatalib.github.io/" target="_blank">http://bigdatalib.github.io//</a>
   </dd>
   <dt>github</dt>
   <dd>
-    <a href="https://github.com/chrisrzhou" target="_blank">https://github.com/chrisrzhou</a>
+    <a href="https://github.com/bigdatalib" target="_blank">https://github.com/bigdatalib</a>
   </dd>
   <dt>email</dt>
   <dd>
-    <a href="mailto:christopher.r.zhou@gmail.com?Subject=Contact" target="_top">christopher.r.zhou@gmail.com</a>
+    <a href="mailto:nima.safaian@gmail.com?Subject=Contact" target="_top">nima.safaian@gmail.com</a>
   </dd>
 </dl>
