@@ -11,12 +11,13 @@ weight: 2
 ## Senior Risk Manager 
 ### [Scotiabank][] (*2012 - Present*)
 
--   **Co-led** high impact **organizational change project** aimed to recover over *$3,000,000* annually through 
-    process improvements.
-    -   Designed an object-oriented API pricing engine to gather [ERCOT][] industry pricing logic.
-    -   Implemented design with technical and IT teams into company systems, consolidating duplicated workflows in 
-        existing and future business processes.
-    
+-   **Decision Architecture** 
+    - Trade Floor Risk Manager at Scotiabank’s Energy and Agriculture Commodities (EAC) Trading Group in Calgary. Portfolio of       linear instruments and options primarily focused on Power, Natural Gas, Crude Oil, Refined Products, FX, Interest Rate        and Agricultural Products.  
+    - Lead role in development and integration of new products and markets into EAC trading portfolio, including development        of the limit framework and the corporate risk policies for EAC trading books
+    - Directed number of initiatives to enable and expand North East Power Trading, Natural Gas Basis Trading, Emissions            Trading and Agricultural Options trading
+    - Developed Risk/Reward analytic framework using Data Mining, Clustering Analysis and Machine Learning methodologies to         better evaluate trading opportunities and provide actionable trading advice
+    - Advised Scotiabank’s senior management and EAC trading group’s managing director on major risks in the trading books
+
 -   Core evangelist on **modernizing interactive web-based** business reports and processes:
     -   Developed and deployed five [R shiny][] interactive web applications interfacing Oracle databases that are 
         used by over five business teams.
@@ -56,7 +57,7 @@ the US.  The application is still being developed but please email for a preview
 
 
 <!-- links -->
-[Reliant Energy]: https://www.reliant.com/
+[Scotiabank]: https://www.scotiabank.com/
 [ERCOT]: http://www.ercot.com/
 [R Shiny]: http://shiny.rstudio.com/gallery/
 [GRADE]: /
