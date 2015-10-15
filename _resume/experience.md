@@ -56,5 +56,5 @@ weight: 2
 <!-- links -->
 [Scotiabank]: https://www.scotiabank.com/
 [BP]: http://www.bp.com/
-[AMEC Foster Wheeler]: http://www.amecfw.com//
+[AMEC Foster Wheeler]: http://www.amecfw.com/
 
