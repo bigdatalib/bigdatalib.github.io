@@ -12,33 +12,20 @@ weight: 2
 ### [Scotiabank][] (*2012 - Present*)
 
 -   **Decision Architecture** 
-    - Trade Floor Risk Manager at Scotiabank’s Energy and Agriculture Commodities (EAC) Trading Group in Calgary. Portfolio of       linear instruments and options primarily focused on Power, Natural Gas, Crude Oil, Refined Products, FX, Interest Rate        and Agricultural Products.  
-    - Lead role in development and integration of new products and markets into EAC trading portfolio, including development        of the limit framework and the corporate risk policies for EAC trading books
-    - Directed number of initiatives to enable and expand North East Power Trading, Natural Gas Basis Trading, Emissions            Trading and Agricultural Options trading
-    - Developed Risk/Reward analytic framework using Data Mining, Clustering Analysis and Machine Learning methodologies to         better evaluate trading opportunities and provide actionable trading advice
+    - Lead role in development and integration of new products and markets into EAC trading portfolio, including development        of the limit framework and the corporate risk policies for EAC trading books. 
+    - Market Experties: Natural Gas, Power, Emission, Oil and Refined Products, FX, Interest Rate, Agricultural Products. 
+    - Developed a Framework for Strategic Decisions and New Activity Integration using Bayesian Belief Networks
     - Advised Scotiabank’s senior management and EAC trading group’s managing director on major risks in the trading books
 
--   Core evangelist on **modernizing interactive web-based** business reports and processes:
-    -   Developed and deployed five [R shiny][] interactive web applications interfacing Oracle databases that are 
-        used by over five business teams.
-    -   Reduced dependency on inefficient data reporting through traditional weekly Excel-based processes.
-    -   Examples of open-source R Shiny projects can be found in the [Projects](#projects) section.
+-   **Data Scientist** 
+    - Developed Risk/Reward analytic framework using Data Mining, Clustering Analysis and Machine Learning methodologies to         better evaluate trading opportunities and provide actionable trading and risk advice
+    -  Developed a Decision Making and Risk Platform Using R and Shiny R
+    -  Developed Machine Learning Application using R and Big Data Applications Hadoop and Spark 
 
--   **Reverse-engineered** the company's supply cost transaction Oracle system.
-    -   Re-purposed the ETL process through careful redesign of over 20 tables.
-    -   Cost queries are now executable on-demand, as opposed to a weekly update frequency, generating over *40 hours
-        of time savings* weekly across five business teams.
-
--   **Created** the calculation foundations for business pricing and supply costs, fulfilling pricing for *over 1
-    million* residential customers every year.
-
--   Focused on building **"company-agnostic"** reports and processes based on researched industry knowledge, ensuring
-    that the company can support the efforts of multi-brand teams and future acquisitions, and have a strong 
-    **long-term  foundation** of business processes and reports to work with.
-
--   **Jack-of-all-"data"-trades** employing relevant tools and technologies (R, Python, VBA, Oracle) to engineer 
-    creative solutions for many other process-improvement and business insight requests.
-
+-   **Data Science Avangelist** 
+    - Active contributer to Risk Analystics and Technology Strategy Discussion at the Bank
+    - Lead role Data Science Initiative as part of Global Association Risk Professionals in Calgary
+    - Organizer of R Calgary User Group
 ------
 
 ## Lead UI + Visualization + Frontend Developer
