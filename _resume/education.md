@@ -23,15 +23,5 @@ weight: 5
 
 ------
 
-## Destinations
-### Rice University
-**Bachelor of Science in Physics**
-
--   Aug 2006 - Dec 2009
--   2nd major: Mathematics
--   GPA: 3.67/4.00
-
-------
-
 ## Journey
 
