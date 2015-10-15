@@ -17,11 +17,16 @@ weight: 5
 - Major: Nuclear Engineering
 
 ## McMaster University
-
+### B.Eng and Management
 - Aug 1997-May 2002
 - Major: Engineering Physics (Optical Communication)
 
 ------
 
-## Journey
+## Designations
+
+- Professional Engineer (P.Eng)
+- Energy Risk Professional (ERP)
+- Charter Alternative Investment Analyst (CAIA) - Level 1
+
 
