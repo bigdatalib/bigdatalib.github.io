@@ -38,6 +38,20 @@ weight: 2
 -  **Quantitative Risk**
     - Managed a major global software development project across BP’s Quant and Risk groups, which included: BP’s Calgary,          Houston, and London Offices. Outcome of the project resulted in significant cost saving for BP and allowed for improved       measurement of risk for various assets and contracts outside the liquidity window.  
     - Reviewed and provided risk/reward input to major business agreements and long-term deals. 
+
+------
+
+## Nuclear Engineer
+### [AMEC Foster Wheeler][]  (*2009 - 2012*)
+    - Nuclear engineer, Project Manager and Consultant for major international engineering consultancy 
+    - Managed multidisciplinary team of engineers in major software development project. Included development and testing of        nuclear simulation software for modeling CANDU reactor shutdown system 2. 
+    - Implemented unique methodology to calculate temperature reactivity coefficient in CANDU reactors using advanced noise         theory and time series analysis. Methodology resulted in two high profile follow-up contracts for AMEC-NSS
+    - Managed NSS’s Training Development and Qualification database. Provided ongoing support and training to management team     - Responsible for design, validation, and qualification of major nuclear safety analysis software including reactor      physics and thermalhydraulics analysis codes  
+
+
+
+
+
 <!-- links -->
 [Scotiabank]: https://www.scotiabank.com/
 [BP]: http://www.bp.com/
