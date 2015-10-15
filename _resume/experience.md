@@ -43,6 +43,7 @@ weight: 2
 
 ## Nuclear Engineer
 ### [AMEC Foster Wheeler][]  (*2009 - 2012*)
+-   **Engineering and Project Management**
     - Nuclear engineer, Project Manager and Consultant for major international engineering consultancy 
     - Managed multidisciplinary team of engineers in major software development project. Included development and testing of        nuclear simulation software for modeling CANDU reactor shutdown system 2. 
     - Implemented unique methodology to calculate temperature reactivity coefficient in CANDU reactors using advanced noise         theory and time series analysis. Methodology resulted in two high profile follow-up contracts for AMEC-NSS
