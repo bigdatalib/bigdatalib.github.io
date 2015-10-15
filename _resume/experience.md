@@ -26,6 +26,7 @@ weight: 2
     - Active contributer to Risk Analystics and Technology Strategy Discussion at the Bank
     - Lead role Data Science Initiative as part of Global Association Risk Professionals in Calgary
     - Organizer of R Calgary User Group
+
 ------
 
 ## Lead UI + Visualization + Frontend Developer
