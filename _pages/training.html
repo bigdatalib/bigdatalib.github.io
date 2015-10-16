@@ -18,14 +18,14 @@ title: training
 {% for training in training reversed %}
 <div class="col-sm-4 post-summary">
   <p class="text-small date">{{ project.date | date: "%b %-d, %Y" }}</p>
-  <a href="{{ project.permalink }}">
-    <img src="{{ project.thumbnail }}" />
+  <a href="{{ training.permalink }}">
+    <img src="{{ training.thumbnail }}" />
     <p class="text-small">
-      <a href="{{ project.source-url }}" target="_blank"><i class="fa fa-external-link-square"></i></a>
-      <a href="{{ project.github-url }}" target="_blank"><i class="fa fa-github-square"></i></a>
+      <a href="{{ training.source-url }}" target="_blank"><i class="fa fa-external-link-square"></i></a>
+      <a href="{{ training.github-url }}" target="_blank"><i class="fa fa-github-square"></i></a>
       {{ project.language }}
     </p>
-    <h2>{{ project.title }}</h2>
+    <h2>{{ training.title }}</h2>
   </a>
 </div>
 {% endfor %}
