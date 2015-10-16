@@ -1,30 +1,12 @@
 ---
-title:  About Me
-weight: 2
+permalink: /projects/r-shiny-power-to-choose/
+layout: project
+title:  R Shiny Power to Choose Visualizations
+summary: PTC Electricity plans and price visualizations built with R Shiny
+date:   2014-12-16 12:31:31
+language: R
+tags: [shiny, visualization]
+source-url: http://shiny.vis.datanaut.io/PowerToChoose/
+github-url: https://github.com/chrisrzhou/RShiny-PowerToChoose/
+thumbnail: http://www.garp.org/img/garp_logo.png
 ---
-
-## About Me
-
-### Brief Intro
-
-
-
-
-
-My name is Nima Safaian I am a financial professional currently working as a Risk Manager for the Energy and Agriculture Trading Group at *Scotiabank*. I use Data Science as part of my job to advise the bank for make better Risk/Reward decision
-
-
-------
-### Decision Making
-
-------
-### Training
-
-![image-garp][]
-
-
-
-<!-- links -->
-
-<!-- image links-->
-[image-garp]: http://www.garp.org/img/garp_logo.png
