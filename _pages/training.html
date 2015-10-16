@@ -1,0 +1,22 @@
+---
+permalink: /training/
+layout: default
+title: training
+---
+
+{% assign training = site.training | sort: "weight" %}
+
+<!-- header -->
+<header>
+  <h1>
+    <a href="/training/"><i class="fa fa-user"></i></a>
+    about
+  </h1>
+  <p>Training and Sessions.</p>
+</header>
+
+{% for section in about %}
+<section id="{{ section.title }}">
+  {{ section.content }}
+</section>
+{% endfor %}
