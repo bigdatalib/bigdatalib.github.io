@@ -1,5 +1,5 @@
 ---
-permalink: /projects/r-shiny-power-to-choose/
+permalink: /taining/garpyycds/
 layout: project
 title:  R Shiny Power to Choose Visualizations
 summary: PTC Electricity plans and price visualizations built with R Shiny
