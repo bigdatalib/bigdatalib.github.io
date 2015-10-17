@@ -1,8 +1,8 @@
 ---
 permalink: /taining/garpyycds/
 layout: post
-title:  google+
-summary: Google+ Test Page
+title:  R Introduction for Risk and Trading
+summary: Introduction to using R for Risk and Trading
 date:   2014-12-16 12:31:31
 language: R
 tags: [shiny, visualization]
