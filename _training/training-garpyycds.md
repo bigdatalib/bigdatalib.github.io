@@ -8,7 +8,7 @@ language: R
 tags: [shiny, visualization]
 youtube-url: http://youtube.com
 github-url: https://plus.google.com/b/100093236850683374819/100093236850683374819/posts
-googleplus-url: http://youtube.com
+hangout-url: http://youtube.com
 thumbnail: http://www.garp.org/img/garp_logo.png
 ---
 
