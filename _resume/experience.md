@@ -4,7 +4,7 @@ weight: 2
 ---
 
 # Experience
->   Decision Scientist and Risk Manager by day and Entrepernuer and Data Scientist by night  
+>   Decision Scientist, Data Scientist, and Risk Manager by day and Entreprenur by night  
 
 ------
 
