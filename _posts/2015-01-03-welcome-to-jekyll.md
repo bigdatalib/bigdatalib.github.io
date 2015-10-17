@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Hello Jekyll!
+title:  Hello Test
 summary: Hello world?!
-date:   2015-01-03 12:31:31
-category: site
-tags: [jekyll]
-thumbnail: https://s3-us-west-1.amazonaws.com/chrisrzhou/datanaut/posts/2015-01-03-welcome-to-jekyll/thumbnail.jpg
+date:   2015-10-20 12:31:31
+category: other
+tags: [Test, Blog]
+thumbnail: https://s3-us-west-2.amazonaws.com/bigdatalibopen/blog/cloud383.png
 ---
 
 This is my first post using Jekyll. Pretty cool stuff
