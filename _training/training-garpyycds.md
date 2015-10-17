@@ -1,6 +1,6 @@
 ---
 permalink: /taining/garpyycds/
-layout: project
+layout: post
 title:  google+
 summary: Google+ Test Page
 date:   2014-12-16 12:31:31
