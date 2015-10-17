@@ -20,7 +20,7 @@ bigdatalib is my journey in the world of Data Driven Decision making. In this si
 
 I am also an active member of GARP Calgary organzing group. I am leading the Data Science and Risk Management stream. We are planning to hold number of hybrid live and virtual lab session where we look at how data science and technologies can help us solve risk management problems  
 
-![GARP][[image-garp] 
+![GARP][image-garp] 
 
 --------
 
