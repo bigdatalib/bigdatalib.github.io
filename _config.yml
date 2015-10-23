@@ -24,5 +24,14 @@ timezone: America/Denver
 markdown: redcarpet
 redcarpet:
     extensions: [with_toc_data]  # to add id to headers
-
+# Settings for analytics helper
+# Set 'provider' to the analytics provider you want to use.
+# Set 'provider' to false to turn analytics off globally.
+#        
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-69211607-1'
+  getclicky :
+    site_id :
 permalink: /blog/:categories/:year/:month/:day/:title
