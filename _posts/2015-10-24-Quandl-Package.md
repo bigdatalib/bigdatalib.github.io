@@ -6,6 +6,7 @@ date: "2015-10-22 12:31:31"
 category: other
 tags: [R, Quandl, energy]
 category: other
+thumbnail: https://s3-us-west-2.amazonaws.com/bigdatalibopen/blog/cloud383.png
 ---
 
 
