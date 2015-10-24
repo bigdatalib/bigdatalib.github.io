@@ -77,7 +77,7 @@ geom_point()+ggtitle("")+stat_smooth()
 ## geom_smooth: method="auto" and size of largest group is <1000, so using loess. Use 'method = x' to change the smoothing method.
 ```
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2-1.png) 
+![plot of chunk unnamed-chunk-2](https://s3-us-west-2.amazonaws.com/bigdatalibopen/blogfiles/unnamed-chunk-2-1.png) 
 
 
 
