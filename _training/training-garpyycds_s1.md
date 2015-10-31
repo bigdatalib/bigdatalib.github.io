@@ -5,6 +5,7 @@ summary: Introduction to using R for Risk and Trading
 date:   2015-11-01 11:11:11
 language: R
 tags: [shiny, R, trading, risk]
+source-url: https://bigdatalib.shinyapps.io/_training/training-garpyycds_s1.md
 youtube-url: //www.youtube.com/embed/Msqwv4Erg3Y
 github-url: https://github.com/bigdatalib/garpyyc/tree/master/Session_1
 hangout-url: https://plus.google.com/b/100093236850683374819/100093236850683374819/posts
