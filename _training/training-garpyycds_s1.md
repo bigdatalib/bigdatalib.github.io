@@ -1,7 +1,7 @@
 ---
 permlinklink: /taining/garpyycds_s1/
 layout: project
-title:  Using R for Risk and Trading
+title:  Introduction to R for Risk and Trading
 summary: Introduction to using R for Risk and Trading
 date:   2015-11-01 11:11:11
 language: R
