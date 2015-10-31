@@ -1,4 +1,5 @@
 ---
+permalink: /training/GARPSession1/
 layout: post
 title:  Introduction to R for Risk and Trading
 summary: Introduction to using R for Risk and Trading
