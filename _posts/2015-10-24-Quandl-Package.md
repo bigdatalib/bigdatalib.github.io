@@ -47,7 +47,6 @@ install.packages("dplyr")
 library(devtools)
 install_github('quandl/R-package')
 library(Quandl)
-mydata = Quandl("CHRIS/CME_NG1",trim_start="1983-03-30", trim_end="2015-10-20")
 ```
 
 Second is to pull the data in this case front contract price and NYMEX volume data. 
