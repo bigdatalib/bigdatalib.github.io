@@ -7,9 +7,9 @@ date:   2015-11-01 11:11:11
 language: R
 tags: [shiny, R, trading, risk]
 source-url: https://bigdatalib.shinyapps.io/_training/training-garpyycds_s1.md
-youtube-url: //www.youtube.com/embed/Msqwv4Erg3Y
+youtube-url: https://www.youtube.com/channel/UCpvk2jWsB289QsoUtaWlXCA
 github-url: https://github.com/bigdatalib/garpyyc/tree/master/Session_1
-hangout-url: https://plus.google.com/b/100093236850683374819/100093236850683374819/posts
+hangout-url: https://plus.google.com/u/0/b/100093236850683374819/events/cepdm6814bgrouvocol7f19qn5c
 thumbnail: https://s3-us-west-2.amazonaws.com/bigdatalibopen/blogfiles/Rlogo_thumb.png
 ---
 
@@ -36,7 +36,7 @@ This meeting is organized by GARP Calgary and with the support of GARP.
 
 Please have [R](https://www.r-project.org/) and [Rstudio](https://www.rstudio.com/) Installed on your Laptop if you want to follow the meeting in the live session. 
 
-(1) **Google+:** If you are on Google+ you can directly participate in this event from Google+ by Clicking on [Big Data YYC](https://plus.google.com/b/100093236850683374819/100093236850683374819/posts). Or alternatively you can watch the meeting by scrolling down in this page.
+(1) **Google+:** If you are on Google+ you can directly participate in this event from Google+ by Clicking on [Big Data YYC](https://plus.google.com/u/0/b/100093236850683374819/events/cepdm6814bgrouvocol7f19qn5c). Or alternatively you can watch the meeting by scrolling down in this page.
 
 (2) **Github** The files used in this session are located in the [Github](https://github.com/bigdatalib/garpyyc/tree/master/Session_1)  
 
@@ -75,4 +75,4 @@ There are number of really interesting R resources and courses you can use to ge
 
 ### Live Meeting
 
-<iframe width="800" height="500" src="//www.youtube.com/embed/Msqwv4Erg3Y" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://www.youtube.com/channel/UCpvk2jWsB289QsoUtaWlXCA" frameborder="0" allowfullscreen></iframe>
