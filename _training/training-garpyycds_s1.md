@@ -75,4 +75,4 @@ There are number of really interesting R resources and courses you can use to ge
 
 ### Live Meeting
 
-<iframe width="800" height="500" src="https://www.youtube.com/channel/UCpvk2jWsB289QsoUtaWlXCA" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="500" src="//www.youtube.com/channel/UCpvk2jWsB289QsoUtaWlXCA" frameborder="0" allowfullscreen></iframe>
