@@ -77,4 +77,4 @@ There are number of really interesting R resources and courses you can use to ge
 (6) Data Visualization Using ggplot2
 
 ### Live Meeting
-<iframe width="800" height="500" src="http://www.youtube.com/embed/_iKDzEY9jZ9k" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="500" src="http://www.youtube.com/embed/iKDzEY9jZ9k" frameborder="0" allowfullscreen></iframe>
