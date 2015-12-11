@@ -34,6 +34,9 @@ This meeting is organized by GARP Calgary and with the support of GARP.
 
 ### Meeting Logistics and Setup
 
+**For Live Questions Please Use: twitter handle: #garpyyc**
+**Use Google+ and Comment Section of the Page for after the meeting** 
+
 Please have [R](https://www.r-project.org/) and [Rstudio](https://www.rstudio.com/) Installed on your Laptop if you want to follow the meeting in the live session. 
 
 (1) **Google+:** If you are on Google+ you can directly participate in this event from Google+ by Clicking on [Big Data YYC](https://plus.google.com/events/cepdm6814bgrouvocol7f19qn5c). Or alternatively you can watch the meeting by scrolling down in this page.
