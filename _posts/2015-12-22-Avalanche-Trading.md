@@ -5,7 +5,7 @@ summary: "Avalanche Risk and Decision Making"
 date: "2015-12-22 12:31:31"
 category: decision
 tags: [risk, energy, decision]
-thumbnail: https://s3-us-west-2.amazonaws.com/bigdatalibopen/blogfiles/unnamed-chunk-2-1.png
+thumbnail: https://s3-us-west-2.amazonaws.com/bigdatalibopen/blogfiles/avalanche.png
 ---
 
 ## What can we learn from Back Country Risk Management?
