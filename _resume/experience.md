@@ -8,7 +8,7 @@ weight: 2
 
 ------
 
-## Senior Risk Manager 
+## Director 
 ### [Scotiabank][] (*2012 - Present*)
 
 -   **Decision Architecture** 
