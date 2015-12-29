@@ -5,7 +5,7 @@ summary: "RS3 Package Review"
 date: "2015-10-22 12:31:31"
 category: other
 tags: [R, Quandl, energy]
-category: other
+category: digitalenergy
 thumbnail: https://s3-us-west-2.amazonaws.com/bigdatalibopen/blogfiles/unnamed-chunk-2-1.png
 ---
 
