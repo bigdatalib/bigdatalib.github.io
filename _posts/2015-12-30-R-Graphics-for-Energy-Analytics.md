@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "R-Graphics-for-Energy-Analytics"
 summary: "Using plotly and dygraphic for energy analytics"  
 date: "2015-12-30 12:31:31"
