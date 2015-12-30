@@ -1,6 +1,6 @@
 ---
 permalink: /posts/2015-12-30-R-Graphics-for-Energy-Analytics.html
-layout: default
+layout: iframe
 title: "R Graphics for Energy Analytics"
 summary: "Using plotly and dygraphics for energy analytics"  
 date: "2015-12-30 12:31:31"
