@@ -9,7 +9,7 @@ weight: 2
 ------
 
 ## Director 
-### [Scotiabank][] (*2012 - Present*)
+### [Scotiabank](www.scotiabank.com) (*2012 - Present*)
 
 -   **Decision Architecture** 
     - Lead role in development and integration of new products and markets into EAC trading portfolio, including development        of the limit framework and the corporate risk policies for EAC trading books. 
@@ -22,7 +22,7 @@ weight: 2
     -  Developed a Decision Making and Risk Platform Using R and Shiny R
     -  Developed Machine Learning Application using R and Big Data Applications Hadoop and Spark 
 
--   **Data Science Avangelist** 
+-   **Data Science Evangelist** 
     - Active contributer to Risk Analystics and Technology Strategy Discussion at the Bank
     - Lead role Data Science Initiative as part of Global Association Risk Professionals in Calgary
     - Organizer of R Calgary User Group
@@ -30,7 +30,7 @@ weight: 2
 ------
 
 ## Lead Risk Specialist
-### [BP][]  (*2009 - 2012*)
+### [BP](www.bp.com)  (*2009 - 2012*)
 -   **Risk Manager** 
     - Calgary lead market risk specialist for NAGP BP. Major North American Energy trading group. Portfolio included financial       and physical Natural Gas, Natural Gas Basis, and NGL both as linear and options instruments
     - Monitored and reported risk of the Natural Gas trading portfolio. Performed VaR analysis, scenario analysis, stress           testing, and VaR model back testing
@@ -42,7 +42,7 @@ weight: 2
 ------
 
 ## Nuclear Engineer
-### [AMEC Foster Wheeler][]  (*2009 - 2012*)
+### [AMEC Foster Wheeler][www.amecfw.com]  (*2009 - 2012*)
 -   **Engineering and Project Management**
     - Nuclear engineer, Project Manager and Consultant for major international engineering consultancy 
     - Managed multidisciplinary team of engineers in major software development project. Included development and testing of        nuclear simulation software for modeling CANDU reactor shutdown system 2. 
