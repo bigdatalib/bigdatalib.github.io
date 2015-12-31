@@ -42,7 +42,7 @@ weight: 2
 ------
 
 ## Nuclear Engineer
-### [AMEC Foster Wheeler][www.amecfw.com]  (*2009 - 2012*)
+### [AMEC Foster Wheeler](www.amecfw.com)  (*2009 - 2012*)
 -   **Engineering and Project Management**
     - Nuclear engineer, Project Manager and Consultant for major international engineering consultancy 
     - Managed multidisciplinary team of engineers in major software development project. Included development and testing of        nuclear simulation software for modeling CANDU reactor shutdown system 2. 
