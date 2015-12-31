@@ -14,7 +14,7 @@ title: bigdatalib.github.io
 <section>
   <h2>Recent News</h2>
   {% assign posts = site.posts %}
-  {% for post in posts | limit: 10 %}
+  {% for post in posts | where:post.category,"digitalenergy" | limit: 10 %}
   <p>
     <span class="text-small">{{ post.date | date: "%m/%d/%Y" }}</span>
     <a href="{{ post.url }}">{{ post.title }}</a>
