@@ -20,10 +20,17 @@ layout: iframe
     {% endfor %}
     {% endif %}
   </p>
+
+<script language="javascript" type="text/javascript">
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+  }
+</script>  
+  
 </header>
 
 <section class="project">
-  <iframe src="{{ page.source-url }}" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:150%;width:150%;position:absolute;top:0px;left:0px;right:0px;bottom:0px" height="150%" width="150%>&nbsp;</iframe>
+  <iframe src="{{ page.source-url }}" frameborder="0" scrolling="no" onload="resizeIframe(this)">&nbsp;</iframe>
 
 <!-- disqus comments -->
 <div class="wrapper">
