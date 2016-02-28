@@ -8,8 +8,12 @@ weight: 2
 
 ------
 
+## Marketing Analytic Specialist
+### [Cenovus Energy](www.cenovus.com) (*2012 - 2016*)
+
+
 ## Director 
-### [Scotiabank](www.scotiabank.com) (*2012 - Present*)
+### [Scotiabank](www.scotiabank.com) (*2012 - 2016*)
 
 -   **Decision Architecture** 
     - Lead role in development and integration of new products and markets into EAC trading portfolio, including development        of the limit framework and the corporate risk policies for EAC trading books. 
