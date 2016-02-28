@@ -9,7 +9,7 @@ weight: 2
 ------
 
 ## Marketing Analytic Specialist
-### [Cenovus Energy](www.cenovus.com) (*2012 - 2016*)
+### [Cenovus Energy](www.cenovus.com) (*2016 - Present*)
 
 
 ## Director 
