@@ -8,7 +8,11 @@ weight: 1
 ### Brief Intro
 
 
-My name is Nima Safaian I am a financial professional currently working as a Risk Manager for the Energy and Agriculture Trading Group at *Scotiabank*. I use Data Science as part of my job to advise the bank for make better Risk/Reward decision
+My name is Nima Safaian I am a financial professional working for *Cenovus Energy* in Calgary, Canada. I use Data Science to help my group make better business decisions. My areas of interest are:
+
+* Decision Sciences
+* Visualization
+* Machine Learning
 
 
 <!-- links -->
