@@ -1,8 +1,8 @@
 ---
 permalink: /training/GARPSession1/
 layout: post
-title:  Introduction to R for Risk and Trading
-summary: Introduction to using R for Risk and Trading
+title:  Introduction to R for Risk and Trading - Pilot
+summary: Introduction to using R for Risk and Trading - Pilot
 date:   2015-11-01 11:11:11
 language: R
 tags: [shiny, R, trading, risk]
