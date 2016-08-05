@@ -23,7 +23,7 @@ thumbnail: https://s3-us-west-2.amazonaws.com/bigdatalibopen/blogfiles/Rlogo_thu
 
 ### Code and Presentation Link
 
-<iframe width="800" height="500" src="http://nima.westus.cloudapp.azure.com:8787/files/garpyyc/Session_1_Ingesting_Stageing/data_ingesting.html#(1)" frameborder="1" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://s3-us-west-2.amazonaws.com/bigdatalibopen/garp/data_ingesting.html" frameborder="1" allowfullscreen></iframe>
 
 
 ### **Code and Slides:** [Github Link](https://github.com/bigdatalib/garpyyc/tree/master/Session_1_Ingesting_Stageing)
