@@ -5,16 +5,16 @@
 
 
 // font variables
-$base-font-size:   1.25em;
+$base-font-size:   1.50em;
 $small-font-size:  $base-font-size * 0.875;
-$base-font-family: "Open Sans", sans-serif;
-$brand-font-family: "Architects Daughter", cursive;
+$base-font-family: "Tahoma", sans-serif;
+$brand-font-family: "Tahoma", sans-serif;
 $base-line-height: 1.5em;
 $spacing-unit:     30px;
 
 //colors variables
 $text-color: #000000;
-$background-color: #fffcfa;
+$background-color: #fff;
 $primary-color: #449bb5;
 $secondary-color: #eb5055;
 $tertiary-color: #25a278;
@@ -116,7 +116,6 @@ header {
   p {
     font-family: $brand-font-family;
     font-size: 1.2em;
-    font-style: italic;
     color: $grey-color-dark;
   }
 }

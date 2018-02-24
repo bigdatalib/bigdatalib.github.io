@@ -2,6 +2,12 @@
 layout: iframe
 ---
 <header class="post-detail">
+  
+<script language="javascript" type="text/javascript">
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+  }
+</script>  
   <h1>
     <a href="/projects"><i class="fa fa-code"></i></a>
     {{ page.title }}
@@ -23,8 +29,7 @@ layout: iframe
 </header>
 
 <section class="project">
-  <iframe src="{{ page.source-url }}"></iframe>
-</section>
+  <iframe src="{{ page.source-url }}" frameborder="0" scrolling="no" onload="resizeIframe(this)">&nbsp;</iframe>
 
 <!-- disqus comments -->
 <div class="wrapper">
