@@ -10,14 +10,13 @@ category: [visualizations, tutorials, other, site, tags, archive]
 collections:
   about:
     output: false
-  blog:
+  podcasts:
     output: true
-  projects:
+  contact:
     output: true
-  resume:
+  twitter:
     output: false
-  training:
-    output: true
+ 
 
 # Build settings
 timezone: America/Denver
